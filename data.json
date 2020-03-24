@@ -1,0 +1,159 @@
+
+{
+    "actions": [
+        {
+            "verb": "hug",
+            "action_begin": "give a huge hug to",
+            "action_end": ", their love is true ! :heart:"
+        },
+        {
+            "verb": "kiss",
+            "action_begin": "approach his lips to",
+            "action_end": " and kiss him/her lovely ! :kiss:"
+        },
+        {
+            "verb": "kill",
+            "action_begin": "take a gun, aim",
+            "action_end": ", and press the trigger .. :gun:"
+        },
+        {
+            "verb": "punch",
+            "action_begin": "punch",
+            "action_end": " with passion ! :fist:"
+        }
+    ],
+    "activity": [
+        {
+            "type": "PLAYING",
+            "activity": "o/help"
+        },
+        {
+            "type": "LISTENING",
+            "activity": "some dope metalcore 🤘"
+        },
+        {
+            "type": "WATCHING",
+            "activity": "Nerve 🌆"
+        },
+        {
+            "type": "PLAYING",
+            "activity": "be coded by @blyndusk"
+        },
+        {
+            "type": "LISTENING",
+            "activity": "some k-pop 🇰🇷"
+        },
+
+        {
+            "type": "WATCHING",
+            "activity": "Shut up & Dance 📵"
+        }
+    ],
+    "epenis": [
+        {
+            "size": 2.5,
+            "animal": "cat :cat:",
+            "pic": "https://img-aws.ehowcdn.com/600x600p/photos.demandstudios.com/getty/article/165/76/87490163.jpg"
+        },
+        {
+            "size": 5,
+            "animal": "orangutans :monkey:",
+            "pic": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Orang_Utan%2C_Semenggok_Forest_Reserve%2C_Sarawak%2C_Borneo%2C_Malaysia.JPG/290px-Orang_Utan%2C_Semenggok_Forest_Reserve%2C_Sarawak%2C_Borneo%2C_Malaysia.JPG"
+        },
+        {
+            "size": 7.5,
+            "animal": "human :eye:",
+            "pic": "https://jooinn.com/images/thumbs-up-1.png"
+        },
+        {
+            "size": 10,
+            "animal": "dog :dog:",
+            "pic": "https://images.theconversation.com/files/205966/original/file-20180212-58348-7huv6f.jpeg?ixlib=rb-1.1.0&q=45&auto=format&w=926&fit=clip"
+        },
+        {
+            "size": 12.5,
+            "animal": "sea turtle :turtle:",
+            "pic": "http://www.zlechien.fr/wp-content/uploads/2017/07/turtle5.jpg"
+        }
+    ],
+    "explicitcontent": [
+        {
+            "index": 0,
+            "message": "@nobody"
+        },
+        {
+            "index": 1,
+            "message": "@withoutrole"
+        },
+        {
+            "index": 2,
+            "message": "@everyone"
+        }
+    ],
+    "security": [
+        {
+            "index": 0,
+            "message": ":wastebasket: Less secure than a Wordpress"
+        },
+        {
+            "index": 1,
+            "message": ":third_place: Every random can ruin your server"
+        },
+        {
+            "index": 2,
+            "message": ":second_place: Every patient random can ruin your server"
+        },
+        {
+            "index": 3,
+            "message": ":first_place: Every very patient random can ruin your server"
+        },
+        {
+            "index": 4,
+            "message": ":trophy: Every connected random can ruin your server"
+        }
+    ],
+    "status": [
+        {
+            "status": "online",
+            "message": "Ready to chat ! :green_apple:"
+        },
+        {
+            "status": "idle",
+            "message": "AFK. :tangerine:"
+        },
+        {
+            "status": "dnd",
+            "message": "Busy I think ? :tomato"
+        },
+        {
+            "status": "offline",
+            "message": "Sleeping.. :egg:"
+        }
+    ],
+    "responses": [
+        {
+            "cited": "aled",
+            "response": ":grimacing: **⎮** what's wrong ?"
+        },
+        {
+            "cited": "oscour",
+            "response": ":kissing_smiling_eyes: **⎮** Shhh.. It will be okay.."
+        },
+        {
+            "cited": "alarm",
+            "response": ":rotating_light: **⎮** ALAAARM !!"
+        },
+        {
+            "cited": "hello",
+            "response": ":wave: **⎮** Heyy, wassup ?"
+        },
+        {
+            "cited": "good night",
+            "response": ":sleeping: **⎮** Make sweet dreams !"
+        },
+        {
+            "cited": "don't smoke weed",
+            "response": ":angel:* **|** *Smoke JESUS !"
+        }
+    ]
+}
