@@ -37,7 +37,7 @@
     "fortnite": "^4.3.2",
     "functions": "^1.0.9",
     "lavalink": "^2.9.0",
-    "mathjs": "^6.6.1",
+    "mathjs": "^7.5.1",
     "moment": "^2.24.0",
     "node-fetch": "^2.6.0",
     "nodes": "^0.1.0",
