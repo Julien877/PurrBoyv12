@@ -39,7 +39,7 @@
     "lavalink": "^2.9.0",
     "mathjs": "^6.6.1",
     "moment": "^2.24.0",
-    "node-fetch": "^2.6.0",
+    "node-fetch": "^3.1.1",
     "nodes": "^0.1.0",
     "novelcovid": "^1.0.4",
     "overwatch-api": "^0.8.2",
